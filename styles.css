@@ -1,0 +1,14 @@
+label[for]{
+  background-color: yellow;
+}
+.B{
+  background-color: green;
+  color: white;
+}
+.N{
+  font-size: large;
+  color: red;
+}
+legend{
+  color: rgb(13, 13, 112);
+}
